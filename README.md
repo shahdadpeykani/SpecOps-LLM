@@ -89,9 +89,9 @@ A zipped, structured, pattern-compliant Python project.
 
 ## 👥 Team
 
-- Shahdad Peykani – Pipeline & Self-Healing Logic  
-- Muhammad Ozar Mirza – RAG & ChromaDB Integration  
-- Abdirahman T. F. Hussein – SpecParser & Asset Generation  
+- Shahdad Peykani  
+- Muhammad Ozar Mirza 
+- Abdirahman T. F. Hussein 
 
 ---
 
