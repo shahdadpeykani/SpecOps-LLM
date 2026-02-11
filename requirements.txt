@@ -1,0 +1,9 @@
+streamlit
+pytest
+pylint
+bandit
+google-generativeai
+pyyaml
+jsonschema
+python-dotenv
+numpy

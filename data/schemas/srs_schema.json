@@ -1,0 +1,52 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "SpecOps SRS Schema",
+    "type": "object",
+    "properties": {
+        "project_name": {
+            "type": "string"
+        },
+        "description": {
+            "type": "string"
+        },
+        "tech_stack": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "functional_requirements": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "non_functional_requirements": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "actors": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "constraints": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        }
+    },
+    "required": [
+        "project_name",
+        "description",
+        "tech_stack",
+        "functional_requirements",
+        "non_functional_requirements",
+        "actors",
+        "constraints"
+    ]
+}

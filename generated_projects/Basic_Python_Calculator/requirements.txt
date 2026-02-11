@@ -1,0 +1,7 @@
+# This project primarily uses Python's standard library (tkinter).
+# No external pip installable packages are strictly required for the core application.
+# If you plan to deploy as a standalone executable, tools like PyInstaller or fbs might be used,
+# but they are build-time dependencies, not runtime dependencies for the code itself.
+
+# Example for future additions:
+# some_library==1.0.0
